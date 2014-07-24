@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://rgardner.github.io/"
 twitter_username: rgardner929
 github_username:  rgardner
+excerpt_separator: <!-- more -->
 
 # Build settings
 markdown: kramdown
