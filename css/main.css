@@ -140,6 +140,19 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+/* About Page styles */
+/* ----------------------------------------------------------*/
+
+#about-title {
+  text-align: center;
+}
+
+#lego-bob {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 /* Home styles */
 /* ----------------------------------------------------------*/
