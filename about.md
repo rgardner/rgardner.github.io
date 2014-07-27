@@ -27,7 +27,7 @@ Earlier this year, I was a **Data Analyst Intern** at Kinetic Social, a social
 data marketing company. There I prototyped interactive data visualizations and
 worked on the user interface for an automated social media optimization tool.
 
-At NYU, I am an **Executive Board Member** of
+At school, I am an **Executive Board Member** of
 [Tech@NYU](http://www.techatnyu.org/), the largest student tech organization in
 NYC. I lead the HackNights initiative, a weekly meetup for programmers,
 designers, researchers, and entrepreneurs from universities in the New York
