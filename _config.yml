@@ -10,3 +10,5 @@ github_username:  rgardner
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude:
+- vendor
