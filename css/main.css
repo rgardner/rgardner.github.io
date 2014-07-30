@@ -38,20 +38,25 @@ a:visited { color: #205caa; }
 /* Layout Styles */
 /* ----------------------------------------------------------*/
 
+/* Site header and footer */
+
+.site-header, .site-footer {
+  background-color: darkslategrey;
+}
+
 /* Site header */
 
 .site-header {
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  background-color: white;
 }
 
 .site-title,
 .site-title:hover,
 .site-title:visited {
   display: block;
-  color: #333;
+  color: white;
   font-size: 26px;
   letter-spacing: -1px;
   float: left;
@@ -68,14 +73,15 @@ a:visited { color: #205caa; }
 .site-nav .menu-icon { display: none; }
 
 .site-nav .page-link {
+  color: white;
   margin-left: 20px;
-  color: #727272;
   letter-spacing: -.5px;
 }
 
 /* Site footer */
 
 .site-footer {
+  color: white;
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
 }
@@ -97,6 +103,7 @@ a:visited { color: #205caa; }
   width: calc(35% - 10px);
   margin-right: 10px
 }
+
 .footer-col-2 {
   width: 175px; /*fallback*/
   width: -webkit-calc(23.125% - 10px);
@@ -105,6 +112,7 @@ a:visited { color: #205caa; }
   width: calc(23.125% - 10px);
   margin-right: 10px
 }
+
 .footer-col-3 {
   width: 335px; /*fallback*/
   width: -webkit-calc(41.875%);
@@ -113,13 +121,16 @@ a:visited { color: #205caa; }
   width: calc(41.875%);
 }
 
+.site-footer a {
+  color: white;
+}
+
 .site-footer ul { list-style: none; }
 
 .site-footer li,
 .site-footer p {
   font-size: 15px;
   letter-spacing: -.3px;
-  color: #828282;
 }
 
 .github-icon-svg,
