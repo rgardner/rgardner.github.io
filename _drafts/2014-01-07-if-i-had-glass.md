@@ -42,7 +42,7 @@ enough. I turned off vibration alerts and only checked those services when I
 voluntarily took my phone out. Instead of my life interrupting my phone, my
 phone now interrupts my life.
 
-###If I had Glass, would my life interrupt Glass or would Glass interrupt my life?
+### If I had Glass, would my life interrupt Glass or would Glass interrupt my life?
 
 I've tried Glass. With the current range of apps it's easy to imagine putting
 Glass away most of the time, taking it out for the occasional photo or video.
@@ -63,9 +63,16 @@ photos.
 Google calls current customers of Glass “Explorers.” Others affectionately call
 them “Glassholes.”
 
-###If I had Glass, I would choose not to be a Glasshole.
+### If I had Glass, I would choose not to be a Glasshole.
 
 It will take effort. I will make mistakes, just like everyone else. But the
-first generation of Glass users has a chance to shape the social rules that all
-Glass users will abide to in the future. If I had Glass, I would accept the
-responsibility that it bestows.
+first generation of Glass users has a chance to shape the social conventions
+that future users will follow.
+
+Glass differs from the smartphones in that it makes the camera and microphone
+even more convenient, in a way unparalleled in other wearables. Information has
+yet to be made more convenient, due to the limitations of the screen size and
+the voice recognition (though Google improves the latter with more audio data
+its users).
+
+If I had Glass, I would accept the responsibility that it bestows.
