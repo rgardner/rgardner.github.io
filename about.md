@@ -16,7 +16,8 @@ freshman year, cofounded my school's robotics club senior year, and competed in
 in the 3lb Beetle weight division at RoboGames (anyone remember
 [BattleBots?](https://www.youtube.com/watch?v=Oo3zWxO3yYs))
 
-I love economics and computer science. [Here's why.](https://google.com)
+I love economics and computer science.
+[Here's why.]({% post_url 2014-7-31-why-technology-and-liberal-arts %})
 
 I am currently a **Junior Research Scientist** with NYU's Systems group in the
 Computer Science department working on Project Spartan, a distributed version
