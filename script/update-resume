@@ -1,0 +1,3 @@
+#!/bin/sh
+# Copy latest resume to weblog.
+cp ~/Documents/resume/blog/*.pdf ~/Developer/weblog/resume.pdf
