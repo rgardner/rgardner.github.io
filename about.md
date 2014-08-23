@@ -13,7 +13,7 @@ Seattle continues to be a huge adventure for the family - hiking, biking,
 Seattle sports teams, great music, and more. Moving there also came at the
 perfect time for my interest in tech; I visited the Microsoft campus my
 freshman year, cofounded my school's robotics club senior year, and competed in
-in the 3lb Beetle weight division at RoboGames (anyone remember
+the 3lb Beetle weight division at RoboGames (anyone remember
 [BattleBots?](https://www.youtube.com/watch?v=Oo3zWxO3yYs))
 
 I love economics and computer science.
