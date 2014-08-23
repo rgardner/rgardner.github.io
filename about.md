@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About Me
-permalink: /about/
+permalink: /
 ---
 
 I am an undergraduate economics theory and computer science student at New York
