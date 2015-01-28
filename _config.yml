@@ -14,7 +14,7 @@ permalink: pretty
 exclude:
 - vendor
 
-# Collections
 collections:
   resources:
     output: true
+    permalink: /resources/:path/
