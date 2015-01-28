@@ -19,3 +19,7 @@ that "Fork me on GitHub" ribbon at the top of the page? That's your queue to
 peak behind the covers and edit anything you find here. You can even make all
 the changes on GitHub without having to download anything to your computer!
 Though you should totally learn Git and Version Control.
+
+{% for resource in site.resources %}
+  <a href="{{ resource.url }}">{{ resource.title }}</a>
+{% endfor %}
