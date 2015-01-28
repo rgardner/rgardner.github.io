@@ -1,3 +1,3 @@
 #!/bin/sh
 # update-resume: Copy latest resume to weblog.
-cp "$RESUME" ~/Developer/weblog/resume.pdf
+cp "$RESUME" ~/Developer/weblog/assets/resume.pdf

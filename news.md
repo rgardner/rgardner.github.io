@@ -9,7 +9,7 @@ Here is a collection of news articles that have featured me or my work:
 ## 2014
 - [NYU Prototyping Fund Recipient](http://nyuentrepreneur.com/announcing-the-fall-14-prototyping-fund-awards/)
   + My team in the *Extreme Design* class at NYU won an NYU Prototyping Fund
-    award for our work on [Project Nikola](project-nikola.github.io).
+    award for our work on [Project Nikola](http://project-nikola.github.io/)
 - [NYU Courant Summer Undergraduate Research Support](http://news.cs.nyu.edu/News.html)
   + In the summer of 2014, I worked with some awesome researchers in the
   System's Group of NYU's Computer Science Department.
