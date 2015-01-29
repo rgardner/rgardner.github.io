@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.2.0'
+ruby '2.1.1'
 
 gem 'html-proofer', '1.6.0'
-gem 'jekyll', '2.5.3'
+gem 'github-pages', '33'
