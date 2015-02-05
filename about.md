@@ -32,8 +32,8 @@ worked on the user interface for an automated social media optimization tool.
 At school, I am an **Executive Board Member** of
 [Tech@NYU](http://www.techatnyu.org/), the largest student tech organization in
 NYC. I lead the After Hours initiative (neé HackNights), a weekly meetup for
-programmers, designers, researchers, and entrepreneurs from universities in the
-New York City area. [Learn more about HackNights
+designers, developers, and entrepreneurs from universities in the New York City
+area. [Learn more about After Hours
 here.](http://www.techatnyu.org/#build-and-socialize)
 
 You can also find me playing the trumpet in [NYU's Music Education Jazz
