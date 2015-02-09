@@ -19,15 +19,19 @@ the 3lb Beetle weight division at RoboGames (anyone remember
 I love economics and computer science.
 [Here's why.]({% post_url 2014-7-31-why-technology-and-liberal-arts %})
 
-This summer, I was a **Junior Research Scientist** in NYU's Computer Science
-Department, working with Professor Jinyang Li in the Systems Group. There I
-worked on Project Spartan, a distributed array language with a similar
+This summer, I will be interning in the Core Group of Microsoft at their
+Redmond office. [Read my blog post here.]({% post_url 2015-2-7-ms %})
+
+In the summer of 2014, I was a **Junior Research Scientist** in NYU's Computer
+Science Department, working with Professor Jinyang Li in the Systems Group.
+There I worked on Project Spartan, a distributed array language with a similar
 interface to the scientific computing library NumPy. Project Spartan is [open
 source on GitHub!](https://github.com/spartan-array/spartan/)
 
-Earlier this year, I was a **Data Analyst Intern** at Kinetic Social, a social
-data marketing company. There I prototyped interactive data visualizations and
-worked on the user interface for an automated social media optimization tool.
+In early 2014, I was a **Data Analyst Intern** at [Kinetic
+Social](http://www.kineticsocial.com/), a social data marketing company. There
+I prototyped interactive data visualizations and worked on the user interface
+for an automated social media optimization tool.
 
 At school, I am an **Executive Board Member** of
 [Tech@NYU](http://www.techatnyu.org/), the largest student tech organization in
@@ -36,7 +40,11 @@ designers, developers, and entrepreneurs from universities in the New York City
 area. [Learn more about After Hours
 here.](http://www.techatnyu.org/#build-and-socialize)
 
-You can also find me playing the trumpet in [NYU's Music Education Jazz
-Ensemble.](https://www.facebook.com/pages/NYU-Music-Education-Jazz-Ensemble/149497651746377)
+I am also the **Secretary** and **Technology Chair** of my fraternity, [Delta
+Phi](http://skullhouse.nyc) chapter of the Phi Kappa Sigma International
+Fraternity.
+
+During my first two years at NYU, I played the trumpet in [NYU's Music
+Education Jazz Ensemble.](https://www.facebook.com/pages/NYU-Music-Education-Jazz-Ensemble/149497651746377)
 When I'm not in the library, in class, or at a school event, I'm probably
 biking around lower Manhattan.
