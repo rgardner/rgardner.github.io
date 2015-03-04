@@ -3,9 +3,9 @@ layout: resource
 title: NYC Jazz Clubs
 ---
 
-# Jazz Clubs
-*All ages*
-- *Blue note*
+note: **bolded** clubs are for jazz cats of all ages.
+
+- **Blue note**
 - Fat cat
 - Smalls
 - StoneNYC
@@ -14,4 +14,4 @@ title: NYC Jazz Clubs
 - Silver lining
 - Zinc
 - 55 Bar
-- *Dizzy's*
+- **Dizzy's**
