@@ -27,3 +27,6 @@ needs.
   - what was novel
   - what was relevant
   - what was "wow!" worthy
+
+## Resources
+- [HN discussion](http://cheeaun.github.io/hackerweb/#/item/9245467)
