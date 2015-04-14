@@ -18,6 +18,3 @@ collections:
   resources:
     output: true
     permalink: /resources/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
