@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+# Create a new Jekyll post
+
+cat <<-EOF >"$(date '+%Y-%m-%d')-change-me.md"
+---
+layout: post
+title: INSERT TITLE HERE
+tags: [INSERT TAGS HERE]
+---
+
+
+EOF
