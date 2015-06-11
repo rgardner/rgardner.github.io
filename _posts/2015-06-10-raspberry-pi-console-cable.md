@@ -11,7 +11,9 @@ allows you to log into the Raspberry Pi shell from your computer, be it
 Windows, Mac, or Linux. If you are connecting to a Raspberry Pi 1 model, then
 this is all you need. For the Raspberry Pi 2, you will need an external power
 supply to power the Raspberry Pi, as the console cable does not supply enough
-power
+power.
+
+<!-- more -->
 
 ![Raspberry Pi Console
 Cable](https://learn.adafruit.com/system/assets/assets/000/003/119/original/learn_raspberry_pi_console_cable.jpg?1396791620)
