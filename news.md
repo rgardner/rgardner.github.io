@@ -14,7 +14,7 @@ Here is a collection of news articles that have featured me or my work:
 - [hackNY Spring 2015 hackathon: 3rd Place](http://challengepost.com/software/chintastic-photo-booth)
   + A few of us from Tech@NYU built a "crazy multi-media mashup that makes your
     upside-down chin the star of it’s own lip-synched video"
-  + [Live site](http://96.126.111.209/)
+  + [Live site](http://chintastic.co/)
   + [Source on GitHub](https://github.com/rgardner/chintastic)
 
 
@@ -35,8 +35,21 @@ Here is a collection of news articles that have featured me or my work:
 - [Tech@NYU: Get to Know Bob Gardner](http://techatnyu.tumblr.com/post/82200405221/get-to-know-bob-gardner)
   + I have been an executive board member of Tech@NYU since Spring 2013
 - [MSNBC host visits NYU, talks racial, economic inequality](http://www.nyunews.com/2014/02/08/mlk-2/)
-  + I was intervied after attending a talk by NYU's President, John Sexton, in
-    celebration of Martin Luther King, JR Day
+  + I was interviewed after attending a talk by NYU's President, John Sexton, in
+    celebration of Martin Luther King, Jr. Day 2014
+- [Hack@Brown
+2014](http://www.browndailyherald.com/2014/01/27/student-programmers-code-night-hackathon/)
+  + Here's an "action" pic of me at Hack@Brown 2014.
+  + My team tried worked on a stock market simulator. While we didn't finish
+    it, I certainly learned some valuable lessons about working on a 7 person
+    group in a hackathon setting. We split into client and server teams and
+    updated a shared document called `server_api.py` whenever a team changed
+    their API. Hilarity ensued as a team would yell "Why doesn't your code
+    work!" "We changed the API, didn't you read the doc." "Oh, didn't see
+    that." Going forward, I learned the importance of working in smaller teams,
+    stabilizing shared API early, and setting checkpoints where both teams
+    would merge and rebase so the project was nearly always in a working state.
+  + [Source on GitHub](https://github.com/J-N/StockMarket)
 
 ## 2013
 - [NYU CAS College Cohort Program](http://www.nyunews.com/2013/09/11/cohort/)
