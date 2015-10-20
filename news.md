@@ -7,6 +7,12 @@ permalink: /news/
 Here is a collection of news articles that have featured me or my work:
 
 ## 2015
+- [This Week in Rust:
+101](http://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/)
+  + I was mentioned as a new contributer in this issue of *This Week in Rust*.
+  + I removed a compilation warning in a documentation example, which then
+    caused someone else to go through the stdlib and remove similar compilation
+    warnings. Now that's leverage!
 - [Where we are: Tech@NYU
 2015](https://medium.com/@TechatNYU/where-we-are-tech-nyu-2015-a5916a25fbfa)
   + A Medium post detailing what all of the current board members are up to
