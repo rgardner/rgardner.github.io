@@ -1,15 +1,21 @@
 all: build
 
 build:
-	jekyll build
+	bundle exec jekyll build
+
+serve:
+	bundle exec jekyll serve
 
 test:
 	script/cibuild
+
+new:
+	@script/new-post
 
 resume:
 	script/update-resume
 
 clean:
-	rm _site
+	-rm -r _site
 
-.PHONY: build, test, resume, clean
+.PHONY: build test new resume clean

@@ -1,7 +1,11 @@
-#!/usr/bin/env sh
+#!/bin/sh
 # Create a new Jekyll post
 
-cat <<-EOF >"$(date '+%Y-%m-%d')-change-me.md"
+set -euo pipefail
+
+name="_drafts/$(date '+%Y-%m-%d')-change-me.md"
+
+cat <<-EOF >"$name"
 ---
 layout: post
 title: INSERT TITLE HERE
@@ -10,3 +14,4 @@ tags: [INSERT TAGS HERE]
 
 
 EOF
+echo "Created new post $name"
