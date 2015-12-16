@@ -20,12 +20,11 @@ Here is a collection of news articles that have featured me or my work:
 - [hackNY Spring 2015 hackathon: 3rd Place](http://challengepost.com/software/chintastic-photo-booth)
   + A few of us from Tech@NYU built a "crazy multi-media mashup that makes your
     upside-down chin the star of it’s own lip-synched video."
-  + [Live site](http://chintastic.co/)
   + [Source on GitHub](https://github.com/rgardner/chintastic)
 
 
 ## 2014
-- [NYU Prototyping Fund Recipient](http://nyuentrepreneur.com/announcing-the-fall-14-prototyping-fund-awards/)
+- [NYU Prototyping Fund Recipient](http://entrepreneur.nyu.edu/2014/10/27/announcing-the-fall-14-prototyping-fund-awards/)
   + My team in the *Extreme Design* class at NYU won an NYU Prototyping Fund
     award for our work on [Project Nikola](http://project-nikola.github.io/).
 - [NYU Courant Summer Undergraduate Research Support](http://news.cs.nyu.edu/News.html)
