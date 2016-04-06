@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/rgardner
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.robert-gardner.com
+  * I am rgardner (https://keybase.io/rgardner) on keybase.
+  * I have a public key ASALpuW4S5oaAJH3lGFORN4tQ8G0_0bl3-TH549PiAQG2wo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101feaa31ffeb5db3f6a3830e94f88e3980669f392bc7acb3b5f9a2fca5ecc951630a",
+            "host": "keybase.io",
+            "kid": "01200ba6e5b84b9a1a0091f794614e44de2d43c1b4ff46e5dfe4c7e78f4f880406db0a",
+            "uid": "d8f07ad290a67eb821339946d77aec19",
+            "username": "rgardner"
+        },
+        "service": {
+            "hostname": "www.robert-gardner.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.14"
+    },
+    "ctime": 1459970918,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1459970896,
+        "hash": "fb34f89702981c0116119b64662ef6fe3f34efdf1df840f89f513456220ee86e9d801e81dc919271df6a53f04f3fcb71777de8edb894b3bcca0cea50eb5e4da2",
+        "seqno": 432591
+    },
+    "prev": "7dc9c37bb95687533f732f3ace9ca576cee875c3314721d66fe2ae72c8bc44e0",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC6bluEuaGgCR95RhTkTeLUPBtP9G5d/kx+ePT4gEBtsKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZmVhYTMxZmZlYjVkYjNmNmEzODMwZTk0Zjg4ZTM5ODA2NjlmMzkyYmM3YWNiM2I1ZjlhMmZjYTVlY2M5NTE2MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGJhNmU1Yjg0YjlhMWEwMDkxZjc5NDYxNGU0NGRlMmQ0M2MxYjRmZjQ2ZTVkZmU0YzdlNzhmNGY4ODA0MDZkYjBhIiwidWlkIjoiZDhmMDdhZDI5MGE2N2ViODIxMzM5OTQ2ZDc3YWVjMTkiLCJ1c2VybmFtZSI6InJnYXJkbmVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cucm9iZXJ0LWdhcmRuZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1OTk3MDkxOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU5OTcwODk2LCJoYXNoIjoiZmIzNGY4OTcwMjk4MWMwMTE2MTE5YjY0NjYyZWY2ZmUzZjM0ZWZkZjFkZjg0MGY4OWY1MTM0NTYyMjBlZTg2ZTlkODAxZTgxZGM5MTkyNzFkZjZhNTNmMDRmM2ZjYjcxNzc3ZGU4ZWRiODk0YjNiY2NhMGNlYTUwZWI1ZTRkYTIiLCJzZXFubyI6NDMyNTkxfSwicHJldiI6IjdkYzljMzdiYjk1Njg3NTMzZjczMmYzYWNlOWNhNTc2Y2VlODc1YzMzMTQ3MjFkNjZmZTJhZTcyYzhiYzQ0ZTAiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBC1SEzIpu4K4UUwktJSraUpsREYC92OvexbwD2yWeyTd+sHMOK4uUVHlknMEl3uNbqU1Hs3Pp/w4cLsMCfxpUJqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rgardner
+
+==================================================================
