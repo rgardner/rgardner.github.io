@@ -10,12 +10,12 @@ test:
 	script/cibuild
 
 new:
-	@script/new-post
+	script/new-post
 
-resume:
+update-resume:
 	script/update-resume
 
 clean:
 	-rm -r _site
 
-.PHONY: build test new resume clean
+.PHONY: all build serve test new update-resume clean
