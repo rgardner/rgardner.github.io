@@ -4,7 +4,7 @@ https://keybase.io/rgardner
 
 I hereby claim:
 
-  * I am an admin of http://www.robert-gardner.com
+  * I am an admin of http://www.bob-gardner.com
   * I am rgardner (https://keybase.io/rgardner) on keybase.
   * I have a public key ASALpuW4S5oaAJH3lGFORN4tQ8G0_0bl3-TH549PiAQG2wo
 
@@ -20,7 +20,7 @@ To do so, I am signing this object:
             "username": "rgardner"
         },
         "service": {
-            "hostname": "www.robert-gardner.com",
+            "hostname": "www.bob-gardner.com",
             "protocol": "http:"
         },
         "type": "web_service_binding",
@@ -28,23 +28,23 @@ To do so, I am signing this object:
     },
     "client": {
         "name": "keybase.io go client",
-        "version": "1.0.14"
+        "version": "1.0.16"
     },
-    "ctime": 1459970918,
+    "ctime": 1464766901,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1459970896,
-        "hash": "fb34f89702981c0116119b64662ef6fe3f34efdf1df840f89f513456220ee86e9d801e81dc919271df6a53f04f3fcb71777de8edb894b3bcca0cea50eb5e4da2",
-        "seqno": 432591
+        "ctime": 1464766866,
+        "hash": "2ac48fac31e13ae4c4f7dfebdcecfa1a16820c36422b87c6581ccc16416e5a9a9095ea9f64f3eda183499635044ab44d8c91105db15bc6776a7b362cd2a305d1",
+        "seqno": 475225
     },
-    "prev": "7dc9c37bb95687533f732f3ace9ca576cee875c3314721d66fe2ae72c8bc44e0",
-    "seqno": 8,
+    "prev": "eda981889e19ac7cda71f592d1324dafe32f2f5d2293648c2d588e7f7023d35b",
+    "seqno": 9,
     "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC6bluEuaGgCR95RhTkTeLUPBtP9G5d/kx+ePT4gEBtsKp3BheWxvYWTFAv17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZmVhYTMxZmZlYjVkYjNmNmEzODMwZTk0Zjg4ZTM5ODA2NjlmMzkyYmM3YWNiM2I1ZjlhMmZjYTVlY2M5NTE2MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGJhNmU1Yjg0YjlhMWEwMDkxZjc5NDYxNGU0NGRlMmQ0M2MxYjRmZjQ2ZTVkZmU0YzdlNzhmNGY4ODA0MDZkYjBhIiwidWlkIjoiZDhmMDdhZDI5MGE2N2ViODIxMzM5OTQ2ZDc3YWVjMTkiLCJ1c2VybmFtZSI6InJnYXJkbmVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cucm9iZXJ0LWdhcmRuZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ1OTk3MDkxOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU5OTcwODk2LCJoYXNoIjoiZmIzNGY4OTcwMjk4MWMwMTE2MTE5YjY0NjYyZWY2ZmUzZjM0ZWZkZjFkZjg0MGY4OWY1MTM0NTYyMjBlZTg2ZTlkODAxZTgxZGM5MTkyNzFkZjZhNTNmMDRmM2ZjYjcxNzc3ZGU4ZWRiODk0YjNiY2NhMGNlYTUwZWI1ZTRkYTIiLCJzZXFubyI6NDMyNTkxfSwicHJldiI6IjdkYzljMzdiYjk1Njg3NTMzZjczMmYzYWNlOWNhNTc2Y2VlODc1YzMzMTQ3MjFkNjZmZTJhZTcyYzhiYzQ0ZTAiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBC1SEzIpu4K4UUwktJSraUpsREYC92OvexbwD2yWeyTd+sHMOK4uUVHlknMEl3uNbqU1Hs3Pp/w4cLsMCfxpUJqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgC6bluEuaGgCR95RhTkTeLUPBtP9G5d/kx+ePT4gEBtsKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZmVhYTMxZmZlYjVkYjNmNmEzODMwZTk0Zjg4ZTM5ODA2NjlmMzkyYmM3YWNiM2I1ZjlhMmZjYTVlY2M5NTE2MzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGJhNmU1Yjg0YjlhMWEwMDkxZjc5NDYxNGU0NGRlMmQ0M2MxYjRmZjQ2ZTVkZmU0YzdlNzhmNGY4ODA0MDZkYjBhIiwidWlkIjoiZDhmMDdhZDI5MGE2N2ViODIxMzM5OTQ2ZDc3YWVjMTkiLCJ1c2VybmFtZSI6InJnYXJkbmVyIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuYm9iLWdhcmRuZXIuY29tIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2NDc2NjkwMSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY0NzY2ODY2LCJoYXNoIjoiMmFjNDhmYWMzMWUxM2FlNGM0ZjdkZmViZGNlY2ZhMWExNjgyMGMzNjQyMmI4N2M2NTgxY2NjMTY0MTZlNWE5YTkwOTVlYTlmNjRmM2VkYTE4MzQ5OTYzNTA0NGFiNDRkOGM5MTEwNWRiMTViYzY3NzZhN2IzNjJjZDJhMzA1ZDEiLCJzZXFubyI6NDc1MjI1fSwicHJldiI6ImVkYTk4MTg4OWUxOWFjN2NkYTcxZjU5MmQxMzI0ZGFmZTMyZjJmNWQyMjkzNjQ4YzJkNTg4ZTdmNzAyM2QzNWIiLCJzZXFubyI6OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBAD7CRuhGUX2IG8tqbPlFFUWDzoswNQD4NbLi8M7tp9101k2tgWgW0BtkVMGU8JqGeRcOb4yap+0qPXyWyg0cDqHNpZ190eXBlIKN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
