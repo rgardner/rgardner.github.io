@@ -2,4 +2,4 @@
 # update-resume: Copy latest resume to weblog.
 set -euo pipefail
 
-cp "$RESUME" ~/Developer/weblog/assets/resume.pdf
+cp "$RESUME" ~/Developer/weblog/resume.pdf
