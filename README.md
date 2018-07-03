@@ -10,23 +10,20 @@ This is the jekyll source of my personal website.
 ### Setup
 
 ```sh
-$ # Install bundler tool to manage dependencies
-$ gem install bundler
-$ # Update dependencies
-$ bundle update
+$ # Install dependencies
+$ make setup
 ```
 
 ### Working with Jekyll
 
 ```sh
-$ # Build the site locally and rebuild when changes occur
-$ jekyll build --watch
-$ # Preview the site locally
-$ jekyll serve
+$ # Serve the website on localhost and rebuild after changes
+$ make serve
 ```
 
-### Check GitHub Pages for common DNS configuration issues
+### Testing
 
 ```sh
-$ github-pages health-check
+$ # Checks Jekyll configuration, links, DNS configuration issues
+$ make test
 ```
