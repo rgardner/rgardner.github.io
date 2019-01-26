@@ -1,29 +1,32 @@
+# rgardner.github.io
+
 [![Build
 Status](https://travis-ci.org/rgardner/rgardner.github.io.svg?branch=master)](https://travis-ci.org/rgardner/rgardner.github.io)
 
-# rgardner.github.io
-
-This is the jekyll source of my personal website.
+This is the [Jekyll](https://jekyllrb.com/) source of my personal website.
 
 ## Development
 
 ### Setup
 
+Install dependencies:
+
 ```sh
-$ # Install dependencies
-$ make setup
+make setup
 ```
 
 ### Working with Jekyll
 
+Serve the website on localhost and rebuild after changes:
+
 ```sh
-$ # Serve the website on localhost and rebuild after changes
-$ make serve
+make serve
 ```
 
 ### Testing
 
+Check Jekyll configuration, links, DNS configuration issues:
+
 ```sh
-$ # Checks Jekyll configuration, links, DNS configuration issues
-$ make test
+make test
 ```
