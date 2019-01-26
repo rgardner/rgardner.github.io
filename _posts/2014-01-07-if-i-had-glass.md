@@ -72,7 +72,7 @@ that future users will follow.
 Glass differs from the smartphones in that it makes the camera and microphone
 even more convenient, in a way unparalleled in other wearables. Information has
 yet to be made more convenient, due to the limitations of the screen size and
-the voice recognition (though Google improves the latter with more audio data
-its users).
+the voice recognition (though Google improves the latter using the audio data
+it collects).
 
 If I had Glass, I would accept the responsibility that it bestows.

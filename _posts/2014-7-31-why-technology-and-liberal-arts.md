@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Technology and Liberal Arts?
-tags: Meta
+tags: [personal]
 ---
 
 Through secondary school I loved all of the subjects. But inevitably, there

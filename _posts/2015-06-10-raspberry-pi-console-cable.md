@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raspberry Pi Console Cable
-tags: [nikola raspberry-pi]
+tags: [nikola, raspberry-pi]
 ---
 
 Where have you been all my life.

@@ -6,7 +6,6 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="shortcut icon" href="/assets/favicon.ico">
     <link rel="apple-touch-icon" href="/assets/favicon.ico">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -22,4 +21,5 @@
       ga('send', 'pageview');
     </script> 
 
+    {% seo %}
 </head>
