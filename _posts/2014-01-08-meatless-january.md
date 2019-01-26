@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meatless January
-tags: personal
+tags: [personal]
 ---
 
 During January 2014, I will not be eating meat. More specifically, I will be a

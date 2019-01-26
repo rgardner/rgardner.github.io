@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Windows 10 Launch
-tags: Microsoft, Windows
+tags: [Microsoft, Windows]
 ---
 
 Last week I attended the awesome Windows & Devices Group scavenger hunt at
