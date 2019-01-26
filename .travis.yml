@@ -1,10 +1,7 @@
-# Run on the new Travis CI container infrastructure.
-sudo: false
-
 language: ruby
-rvm:
-- 2.1.1
-script: ./script/cibuild
+cache: bundler
+
+script: ./script/run-tests
 
 env:
   global:

@@ -7,6 +7,8 @@ This is the [Jekyll](https://jekyllrb.com/) source of my personal website.
 
 ## Development
 
+This project can be built either locally or via Docker.
+
 ### Setup
 
 Install dependencies:
@@ -20,7 +22,10 @@ make setup
 Serve the website on localhost and rebuild after changes:
 
 ```sh
+# locally
 make serve
+# via Docker
+make image-serve
 ```
 
 ### Testing
@@ -28,5 +33,8 @@ make serve
 Check Jekyll configuration, links, DNS configuration issues:
 
 ```sh
+# locally
 make test
+# via Docker
+make image-test
 ```
