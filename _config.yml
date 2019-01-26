@@ -1,7 +1,8 @@
 # Site settings
 title: Bob Gardner
 email: bob.hn.gardner@gmail.com
-description: "Thoughts from the intersection of economics and computer science."
+description: >- # ignores newlines until 'baseurl:'
+  Bob Gardner's personal website.
 baseurl: ""
 url: "https://www.bob-gardner.com"
 twitter_username: rgardner929
@@ -12,6 +13,11 @@ excerpt_separator: <!-- more -->
 markdown: kramdown
 permalink: pretty
 exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
   - vendor
 
 collections:
@@ -30,8 +36,3 @@ social:
     - https://www.facebook.com/BobHGardner
     - https://twitter.com/rgardner929
     - https://keybase.io/rgardner
-
-exclude:
-  - CNAME
-  - Makefile
-  - README.md
