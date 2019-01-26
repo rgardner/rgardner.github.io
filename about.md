@@ -14,10 +14,10 @@ Seattle sports teams, great music, and more. Moving there also came at the
 perfect time for my interest in tech; I visited the Microsoft campus my
 freshman year, cofounded my school's robotics club senior year, and competed in
 the 3lb Beetle weight division at RoboGames (anyone remember
-[BattleBots?](https://www.youtube.com/watch?v=Oo3zWxO3yYs))
+[BattleBots?][battlebots])
 
 I love economics and computer science.
-[Here's why.]({% post_url 2014-7-31-why-technology-and-liberal-arts %})
+[Here's why.][techliberalarts]
 
 In the fall of 2016, I will be returning to the Windows & Devices Group at
 Microsoft as a full-time **Software Engineer**.
@@ -30,26 +30,35 @@ In the summer of 2014, I was a **Junior Research Scientist** in NYU's Computer
 Science Department, working with Professor Jinyang Li in the Systems Group.
 There I worked on Project Spartan, a distributed array language with a similar
 interface to the scientific computing library NumPy. Project Spartan is [open
-source on GitHub!](https://github.com/spartan-array/spartan/)
+source on GitHub!][spartan]
 
 In early 2014, I was a **Data Analyst Intern** at [Kinetic
-Social](http://www.kineticsocial.com/), a social data marketing company. There
-I prototyped interactive data visualizations and worked on the user interface
-for an automated social media optimization tool.
+Social][kineticsocial], a social data marketing company. There I prototyped
+interactive data visualizations and worked on the user interface for an
+automated social media optimization tool.
 
 During my senior year at NYU, I served as the **President** of my fraternity,
-[Delta Phi](http://skullhouse.nyc) chapter of the Phi Kappa Sigma
-International Fraternity. I have also served as **Secretary** and
-**Technology Chair**.
+[Delta Phi][phikap] chapter of the Phi Kappa Sigma International Fraternity. I
+have also served as **Secretary** and **Technology Chair**.
 
 During my sophomore and junior years at NYU, I was an **Executive Board
-Member** of [Tech@NYU](http://www.techatnyu.org/), the largest student tech
+Member** of [Tech@NYU][techatnyu], the largest student tech
 organization in NYC. I led the After Hours initiative (neé HackNights), a
 weekly meetup for designers, developers, and entrepreneurs from universities in
 the New York City area. [Learn more about After Hours
 here.](http://www.techatnyu.org/#build-and-socialize)
 
 During my first two years at NYU, I played the trumpet in [NYU's Music
-Education Jazz Ensemble.](https://www.facebook.com/pages/NYU-Music-Education-Jazz-Ensemble/149497651746377)
+Education Jazz Ensemble.][meje]
+
 When I'm not in the library, in class, or at a school event, I'm probably
 biking around lower Manhattan.
+
+[battlebots]: https://www.youtube.com/watch?v=Oo3zWxO3yYs
+[techliberalarts]: {% post_url 2014-7-31-why-technology-and-liberal-arts %}
+[spartan]: https://github.com/spartan-array/spartan
+[kineticsocial]: https://www.crunchbase.com/organization/kinetic-social
+[phikap]: https://www.facebook.com/NYUSkulls/
+[techatnyu]: http://www.techatnyu.org/
+[afterhours]: http://www.techatnyu.org/#build-and-socialize
+[meje]: https://www.facebook.com/pages/NYU-Music-Education-Jazz-Ensemble/149497651746377

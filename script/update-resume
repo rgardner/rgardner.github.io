@@ -1,5 +1,0 @@
-#!/bin/sh
-# update-resume: Copy latest resume to weblog.
-set -euo pipefail
-
-cp "$RESUME" ~/Developer/weblog/resume.pdf

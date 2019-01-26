@@ -16,13 +16,10 @@ test:
 new:
 	script/new-post
 
-update-resume:
-	script/update-resume
-
 update-depencies:
 	bundle update
 
 clean:
 	-rm -r _site
 
-.PHONY: all setup build serve test new update-resume update-depdencies clean
+.PHONY: all setup build serve test new  update-depdencies clean
