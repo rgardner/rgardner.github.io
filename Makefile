@@ -31,7 +31,6 @@ image-serve:
 image-test:
 	docker run \
 	-v=${PWD}:/srv/jekyll \
-	-p 4000:4000 \
 	jekyll/jekyll \
 	/bin/bash -c "script/install && script/run-tests"
 

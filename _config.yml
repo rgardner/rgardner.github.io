@@ -12,9 +12,26 @@ excerpt_separator: <!-- more -->
 markdown: kramdown
 permalink: pretty
 exclude:
-- vendor
+  - vendor
 
 collections:
   resources:
     output: true
     permalink: /resources/:path/
+
+plugins:
+  - jekyll-seo-tag
+
+social:
+  name: Bob Gardner
+  links:
+    - https://github.com/rgardner/
+    - https://www.linkedin.com/in/robertgardner1/
+    - https://www.facebook.com/BobHGardner
+    - https://twitter.com/rgardner929
+    - https://keybase.io/rgardner
+
+exclude:
+  - CNAME
+  - Makefile
+  - README.md
