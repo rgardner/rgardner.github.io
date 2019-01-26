@@ -23,7 +23,6 @@ clean:
 
 image-serve:
 	docker run \
-	--rm \
 	-v=${PWD}:/srv/jekyll \
 	-p 4000:4000 \
 	jekyll/jekyll \
@@ -31,7 +30,6 @@ image-serve:
 
 image-test:
 	docker run \
-	--rm \
 	-v=${PWD}:/srv/jekyll \
 	-p 4000:4000 \
 	jekyll/jekyll \
