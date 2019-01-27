@@ -6,6 +6,15 @@ permalink: /news/
 
 Here is a collection of news articles that have featured me or my work:
 
+## 2016
+
+- Georgetown UIS tweet from Hoya Hacks 2016
+  - They higlighted our demo for PopMap, which went on to win Best Software
+    Project at the hackathon.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Team PopMap is demoing their hack <a href="https://twitter.com/hashtag/hoyahaxa?src=hash&amp;ref_src=twsrc%5Etfw">#hoyahaxa</a> representing <a href="https://twitter.com/TempleUniv?ref_src=twsrc%5Etfw">@TempleUniv</a> <a href="https://twitter.com/nyuniversity?ref_src=twsrc%5Etfw">@nyuniversity</a> and <a href="https://twitter.com/Princeton?ref_src=twsrc%5Etfw">@Princeton</a> <a href="https://twitter.com/HoyaHacks?ref_src=twsrc%5Etfw">@HoyaHacks</a> <a href="https://t.co/PuTe8AzuEl">pic.twitter.com/PuTe8AzuEl</a></p>&mdash; Georgetown UIS (@GU_UIS) <a href="https://twitter.com/GU_UIS/status/693845446586929152?ref_src=twsrc%5Etfw">January 31, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## 2015
 
 - [This Week in Rust: 101][twir]
@@ -16,14 +25,21 @@ Here is a collection of news articles that have featured me or my work:
 - [Where we are: Tech@NYU 2015][techatnyu]
   - A Medium post detailing what all of the current board members are up to
     this summer.
+- [NY Tech Meetup April 7, 2015][nytm]
+  - My team presented our [Chintastic Photo Booth][hackny-project] project from
+    1:04:20 to 1:08:00 and answered questions from the audience from 1:13:00 to
+    1:19:00.
 - [hackNY Spring 2015 hackathon: 3rd Place][hackny]
-  - A few of us from Tech@NYU built a "crazy multi-media mashup that makes your
-    upside-down chin the star of it’s own lip-synched video."
+  - A few of us from Tech@NYU built Chintastic, a "crazy multi-media mashup
+    that makes your upside-down chin the star of it’s own lip-synched video."
+  - [Challenge Post][hackny-project]
   - [Source on GitHub][chintastic]
 
 [twir]: http://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/
 [techatnyu]: https://medium.com/@TechatNYU/where-we-are-tech-nyu-2015-a5916a25fbfa
-[hackny]: http://challengepost.com/software/chintastic-photo-booth
+[nytm]: https://vimeo.com/124470748
+[hackny]: http://hackny.org/tag/spring/
+[hackny-project]: http://challengepost.com/software/chintastic-photo-booth
 [chintastic]: https://github.com/rgardner/chintastic
 
 ## 2014
