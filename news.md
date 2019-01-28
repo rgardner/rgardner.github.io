@@ -8,12 +8,14 @@ Here is a collection of news articles that have featured me or my work:
 
 ## 2016
 
-- Georgetown UIS tweet from Hoya Hacks 2016
-  - They higlighted our demo for PopMap, which went on to win Best Software
+- [Georgetown UIS tweet from Hoya Hacks 2016][tweet]
+  - They highlighted our demo for PopMap, which went on to win Best Software
     Project at the hackathon.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Team PopMap is demoing their hack <a href="https://twitter.com/hashtag/hoyahaxa?src=hash&amp;ref_src=twsrc%5Etfw">#hoyahaxa</a> representing <a href="https://twitter.com/TempleUniv?ref_src=twsrc%5Etfw">@TempleUniv</a> <a href="https://twitter.com/nyuniversity?ref_src=twsrc%5Etfw">@nyuniversity</a> and <a href="https://twitter.com/Princeton?ref_src=twsrc%5Etfw">@Princeton</a> <a href="https://twitter.com/HoyaHacks?ref_src=twsrc%5Etfw">@HoyaHacks</a> <a href="https://t.co/PuTe8AzuEl">pic.twitter.com/PuTe8AzuEl</a></p>&mdash; Georgetown UIS (@GU_UIS) <a href="https://twitter.com/GU_UIS/status/693845446586929152?ref_src=twsrc%5Etfw">January 31, 2016</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[tweet]: https://twitter.com/GU_UIS/status/693845446586929152
 
 ## 2015
 
