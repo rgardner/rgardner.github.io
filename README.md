@@ -38,3 +38,8 @@ make test
 # via Docker
 make image-test
 ```
+
+### Pull Requests
+
+Use the `automerge` label on your Pull Request to automatically merge the pull
+request when the status checks pass.
