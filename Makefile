@@ -23,14 +23,14 @@ clean:
 
 image-serve:
 	docker run \
-	-v=${PWD}:/srv/jekyll \
-	-p 4000:4000 \
+	--volume="${PWD}:/srv/jekyll" \
+	--publish 4000:4000 \
 	jekyll/jekyll \
-	jekyll serve --drafts
+	jekyll serve --drafts --incremental
 
 image-test:
 	docker run \
-	-v=${PWD}:/srv/jekyll \
+	--volume="${PWD}:/srv/jekyll" \
 	jekyll/jekyll \
 	/bin/bash -c "script/install && script/run-tests"
 
