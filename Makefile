@@ -12,7 +12,7 @@ serve:
 test:
 	script/run-tests
 
-new:
+new-post:
 	script/new-post
 
 update-depencies:
@@ -35,5 +35,5 @@ image-test:
 	/bin/bash -c "script/install && script/run-tests"
 
 .PHONY:
-	all setup build serve test new  update-depdencies clean
+	all setup build serve test new-post update-depdencies clean
 	image-serve image-test
