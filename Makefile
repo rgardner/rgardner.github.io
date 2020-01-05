@@ -12,7 +12,7 @@ serve:
 test:
 	script/run-tests
 
-new:
+new-post:
 	script/new-post
 
 update-depencies:
@@ -23,17 +23,17 @@ clean:
 
 image-serve:
 	docker run \
-	-v=${PWD}:/srv/jekyll \
-	-p 4000:4000 \
+	--volume="${PWD}:/srv/jekyll" \
+	--publish 4000:4000 \
 	jekyll/jekyll \
-	jekyll serve --drafts
+	jekyll serve --drafts --incremental
 
 image-test:
 	docker run \
-	-v=${PWD}:/srv/jekyll \
+	--volume="${PWD}:/srv/jekyll" \
 	jekyll/jekyll \
 	/bin/bash -c "script/install && script/run-tests"
 
 .PHONY:
-	all setup build serve test new  update-depdencies clean
+	all setup build serve test new-post update-depdencies clean
 	image-serve image-test

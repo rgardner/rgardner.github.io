@@ -1,9 +1,15 @@
-#!/bin/sh
-# Create a new Jekyll post
+#!/usr/bin/env bash
+# Creates a new draft Jekyll post
 
 set -euo pipefail
 
-name="_drafts/$(date '+%Y-%m-%d')-change-me.md"
+repo_root="$(git rev-parse --show-toplevel)"
+readonly repo_root
+
+readonly drafts_dir="${repo_root}/_drafts"
+mkdir -p "${drafts_dir}"
+
+name="${drafts_dir}/$(date '+%Y-%m-%d')-change-me.md"
 
 cat <<-EOF >"$name"
 ---
