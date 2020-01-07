@@ -7,14 +7,14 @@ This is the [Jekyll](https://jekyllrb.com/) source of my personal website.
 
 ## Development
 
-This project can be built either locally or via Docker.
+This project can be built via Docker.
 
 ### Setup
 
 Install dependencies:
 
 ```sh
-make setup
+pip3 install invoke
 ```
 
 ### Working with Jekyll
@@ -22,10 +22,7 @@ make setup
 Serve the website on localhost and rebuild after changes:
 
 ```sh
-# locally
-make serve
-# via Docker
-make image-serve
+invoke serve
 ```
 
 ### Testing
@@ -33,10 +30,18 @@ make image-serve
 Check Jekyll configuration, links, DNS configuration issues:
 
 ```sh
-# locally
-make test
-# via Docker
-make image-test
+invoke test
+```
+
+### Miscellaneous Build Taks
+
+```sh
+# list all build tasks
+invoke --list
+# create a new post
+invoke new-post
+# update dependencies
+invoke update-dependencies
 ```
 
 ### Pull Requests
