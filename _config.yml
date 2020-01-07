@@ -16,8 +16,9 @@ exclude:
   - CNAME
   - Gemfile
   - Gemfile.lock
-  - Makefile
+  - tasks.py
   - README.md
+  - script
   - vendor
 
 collections:
