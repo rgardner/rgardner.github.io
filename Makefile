@@ -19,7 +19,7 @@ update-depencies:
 	bundle update
 
 clean:
-	-rm -r _site
+	rm -r _site
 
 image-serve:
 	docker run \
@@ -35,5 +35,5 @@ image-test:
 	/bin/bash -c "script/install && script/run-tests"
 
 .PHONY:
-	all setup build serve test new-post update-depdencies clean
+	all setup build serve test new-post update-dependencies clean
 	image-serve image-test
