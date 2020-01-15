@@ -5,6 +5,7 @@ title: Python
 
 I love the Python programming language. Python is cross-platform, open-source,
 and has a wide array of use cases:
+
 - small utilities
 - data analysis
 - web scraping
@@ -33,3 +34,16 @@ in general. As always, forums like [Hacker News](https://news.ycombinator.com/)
 and [r/programming](https://www.reddit.com/r/programming) are excellent
 resources because they expose you to many different parts of programming,
 Computer Science, and the intersections of those with the rest of the world.
+
+Tools I use to develop Python applications:
+
+- Code formatter: [Black](https://github.com/psf/black)
+  - Current go to formatter. I previously used [yapf](https://github.com/google/yapf),
+    but I like that Black is managed by the Python Software Foundation and it is
+    easier to use in CI (`black --check .`)
+- Static analysis: [mypy](https://github.com/python/mypy)
+  - Optional static type checking. Using Python's type annotations, the `mypy`
+    command line tool warns you of type violations, e.g. passing an int to a
+    function that expects a string.
+- Static analysis: [pylint](https://www.pylint.org/)
+- Testing: [pytest](https://docs.pytest.org/en/latest/)
