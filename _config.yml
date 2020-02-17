@@ -6,7 +6,7 @@ description: >- # ignores newlines until 'baseurl:'
 baseurl: ""
 url: "https://www.bob-gardner.com"
 twitter_username: rgardner929
-github_username:  rgardner
+github_username: rgardner
 excerpt_separator: <!-- more -->
 
 # Build settings
@@ -22,6 +22,9 @@ exclude:
   - vendor
 
 collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
   resources:
     output: true
     permalink: /resources/:path/
