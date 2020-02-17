@@ -37,9 +37,13 @@ Computer Science, and the intersections of those with the rest of the world.
 
 Tools I use to develop Python applications:
 
+- Dependency manager and build system: [Poetry](https://python-poetry.org/)
+  - I previously used [Pipenv](https://pipenv.readthedocs.io/en/latest/), but I
+    ran into dependency resolution issues several times and wanted to experiment
+    with Poetry given its growing popularity. So far so good :)
 - Code formatter: [Black](https://github.com/psf/black)
-  - Current go to formatter. I previously used [yapf](https://github.com/google/yapf),
-    but I like that Black is managed by the Python Software Foundation and it is
+  - Current go-to formatter. I previously used [yapf](https://github.com/google/yapf),
+    but I like that Black is managed by the Python Software Foundation and it's
     easier to use in CI (`black --check .`)
 - Static analysis: [mypy](https://github.com/python/mypy)
   - Optional static type checking. Using Python's type annotations, the `mypy`
