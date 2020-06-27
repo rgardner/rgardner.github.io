@@ -20,7 +20,7 @@ Here is a collection of news articles that have featured me or my work:
 ## 2015
 
 - [This Week in Rust: 101][twir]
-  - I was mentioned as a new contributer in this issue of *This Week in Rust*.
+  - I was mentioned as a new contributer in this issue of _This Week in Rust_.
   - I removed a compilation warning in a documentation example, which then
     caused someone else to go through the stdlib and remove similar compilation
     warnings. Now that's leverage!
@@ -47,7 +47,7 @@ Here is a collection of news articles that have featured me or my work:
 ## 2014
 
 - [NYU Prototyping Fund Recipient][protofund]
-  - My team in the *Extreme Design* class at NYU won an NYU Prototyping Fund
+  - My team in the _Extreme Design_ class at NYU won an NYU Prototyping Fund
     award for our work on [Project Nikola][projectnikola].
 - [NYU Courant Summer Undergraduate Research Support][courant]
   - In the summer of 2014, I worked with some awesome researchers in the
@@ -82,7 +82,7 @@ Here is a collection of news articles that have featured me or my work:
 [projectnikola]: http://project-nikola.github.io/
 [courant]: http://news.cs.nyu.edu/News.html
 [pks-interview]: https://www.facebook.com/NYUSkulls/photos/a.761902210542949.1073741830.322590137807494/772882586111578/?type=1
-[pearson-post]: http://developer.pearson.com/blog/recap-technyus-hacknight-pearsons-new-york-office
+[pearson-post]: https://web.archive.org/web/20170106182652/http://developer.pearson.com/blog/recap-technyus-hacknight-pearsons-new-york-office
 [techatnyu-interview]: http://techatnyu.tumblr.com/post/82200405221/get-to-know-bob-gardner
 [nyu-interview]: http://www.nyunews.com/2014/02/08/mlk-2/
 [hackatbrown]: http://www.browndailyherald.com/2014/01/27/student-programmers-code-night-hackathon/
