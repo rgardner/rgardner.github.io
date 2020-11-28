@@ -33,7 +33,7 @@ Check Jekyll configuration, links, DNS configuration issues:
 invoke test
 ```
 
-### Miscellaneous Build Taks
+### Miscellaneous Build Tasks
 
 ```sh
 # list all build tasks
