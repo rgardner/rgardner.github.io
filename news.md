@@ -40,7 +40,7 @@ Here is a collection of news articles that have featured me or my work:
 [twir]: http://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/
 [techatnyu]: https://medium.com/@TechatNYU/where-we-are-tech-nyu-2015-a5916a25fbfa
 [nytm]: https://vimeo.com/124470748
-[hackny]: http://hackny.org/tag/spring/
+[hackny]: https://hackny.org/blog/2015/03/spring-2015-hackathon-recap
 [hackny-project]: http://challengepost.com/software/chintastic-photo-booth
 [chintastic]: https://github.com/rgardner/chintastic
 
