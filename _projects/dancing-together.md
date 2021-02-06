@@ -6,7 +6,7 @@ title: Dancing Together
 In 2018, I worked on a project called Dancing Together to enable my
 girlfriend and I to listen to music together while we were long distance.
 
-- <https://www.dancingtogether.live/>
+- "https://www.dancingtogether.live/" - now offline
 - <https://github.com/rgardner/dancingtogether>
 
 The

@@ -1,9 +1,9 @@
-# rgardner.github.io
+# bob-gardner.com
 
 [![Build
 Status](https://travis-ci.org/rgardner/rgardner.github.io.svg?branch=master)](https://travis-ci.org/rgardner/rgardner.github.io)
 
-This is the [Jekyll](https://jekyllrb.com/) source of my personal website.
+This is the [Jekyll](https://jekyllrb.com/) source of my personal website, <https://www.bob-gardner.com>.
 
 ## Development
 
@@ -14,7 +14,7 @@ This project can be built via Docker.
 Install dependencies:
 
 ```sh
-pip3 install invoke
+pip install invoke
 ```
 
 ### Working with Jekyll

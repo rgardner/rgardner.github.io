@@ -140,7 +140,7 @@ documentation which has made them simple to integrate.
 
 [actions-rs]: https://github.com/actions-rs
 [actix-web]: https://github.com/actix/actix-web
-[dancing-together]: https://github.com/rgardner/dancing-together
+[dancing-together]: https://github.com/rgardner/dancingtogether
 [diesel]: https://diesel.rs/
 [google-trends]: https://trends.google.com/trends/
 [heroku]: https://www.heroku.com/
