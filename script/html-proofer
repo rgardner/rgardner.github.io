@@ -1,12 +1,9 @@
-#!/usr/bin/env bash
+#!/bin/bash
 
-set -e # halt script on error
+set -euo pipefail
 
-bundle exec jekyll build
 bundle exec htmlproofer \
   --assume-extension \
   --http-status-ignore "301,401,403,429,999" \
   --url-swap "https\:\/\/www.bob-gardner.com:" \
   ./_site
-
-bundle exec github-pages health-check
