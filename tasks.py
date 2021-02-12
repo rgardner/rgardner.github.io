@@ -1,19 +1,18 @@
 """Blog management tasks."""
 
-from pathlib import Path
+import pathlib
 import shutil
-import subprocess
 from typing import List
 
-from invoke import task
+import invoke
 
 
 JEKYLL_VERSION = "3.8"
 
 
-def get_repo_root() -> Path:
+def get_repo_root() -> pathlib.Path:
     """Returns git repository root."""
-    return Path(__file__).parent.absolute()
+    return pathlib.Path(__file__).parent.absolute()
 
 
 def get_base_docker_command() -> List[str]:
@@ -30,41 +29,38 @@ def get_base_docker_command() -> List[str]:
     ]
 
 
-@task
-def serve(c):
+@invoke.task
+def serve(ctx):
     """Serves auto-reloading blog via Docker."""
-    repo_root = get_repo_root()
     docker_command = get_base_docker_command()
     docker_command.extend(["jekyll", "serve", "--drafts", "--incremental"])
-    c.run(" ".join(docker_command))
+    ctx.run(" ".join(docker_command))
 
 
-@task
-def test(c):
+@invoke.task
+def test(ctx):
     """Runs blog tests."""
-    repo_root = get_repo_root()
     docker_command = get_base_docker_command()
-    docker_command.extend(["/bin/bash", "-c", "'script/install && script/run-tests'"])
-    c.run(" ".join(docker_command))
+    docker_command.extend(["/bin/bash", "-ctx", "'script/install && script/run-tests'"])
+    ctx.run(" ".join(docker_command))
 
 
-@task
-def clean(c):
+@invoke.task
+def clean(ctx):
     """Cleans build and vendor directories."""
     shutil.rmtree(get_repo_root() / "_site", ignore_errors=True)
     shutil.rmtree(get_repo_root() / "vendor", ignore_errors=True)
 
 
-@task
-def new_post(c):
+@invoke.task
+def new_post(ctx):
     """Creates a new draft post."""
-    c.run("script/new-post")
+    ctx.run("script/new-post")
 
 
-@task
-def update_dependencies(c):
+@invoke.task
+def update_dependencies(ctx):
     """Updates blog's Ruby Gems."""
-    repo_root = get_repo_root()
     docker_command = get_base_docker_command()
-    docker_command.extend(["/bin/bash", "-c", "'bundle update'"])
-    c.run(" ".join(docker_command))
+    docker_command.extend(["/bin/bash", "-ctx", "'bundle update'"])
+    ctx.run(" ".join(docker_command))

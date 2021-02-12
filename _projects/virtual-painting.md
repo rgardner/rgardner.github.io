@@ -15,11 +15,10 @@ experience for her Master's Thesis. From [the README][readme]:
 
 ## Architecture
 
-Virtual Painting is written in C# and uses the [Model-view-viewmodel](mvvm)
+Virtual Painting is written in C# and uses the [Model-view-viewmodel][mvvm]
 architectural pattern. The core photo booth experience is implemented as a
-state machine using the [Stateless](stateless) library.
+state machine using the [Stateless][stateless] library.
 
 [mvvm]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-[stateless]: https://github.com/dotnet-state-machine/stateless
-
 [readme]: https://github.com/rgardner/Virtual-Painting#readme
+[stateless]: https://github.com/dotnet-state-machine/stateless

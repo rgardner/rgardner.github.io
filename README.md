@@ -1,7 +1,6 @@
 # bob-gardner.com
 
-[![Build
-Status](https://travis-ci.org/rgardner/rgardner.github.io.svg?branch=master)](https://travis-ci.org/rgardner/rgardner.github.io)
+![Jekyll CI status](https://github.com/rgardner/rgardner.github.io/workflows/Jekyll/badge.svg)
 
 This is the [Jekyll](https://jekyllrb.com/) source of my personal website, <https://www.bob-gardner.com>.
 

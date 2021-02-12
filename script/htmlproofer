@@ -1,0 +1,14 @@
+#!/bin/bash
+
+set -euo pipefail
+
+# dancingtoether was decomissioned
+# twitter requires custom user agent not available from htmlproofer CLI
+URL_IGNORE="/dancingtogether.live/,/twitter.com/,/t.co/"
+
+bundle exec htmlproofer \
+  --assume-extension \
+  --http-status-ignore "301,401,403,429,999" \
+  --url-ignore "${URL_IGNORE}" \
+  --url-swap "https\:\/\/www.bob-gardner.com:" \
+  ./_site
