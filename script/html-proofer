@@ -1,9 +1,0 @@
-#!/bin/bash
-
-set -euo pipefail
-
-bundle exec htmlproofer \
-  --assume-extension \
-  --http-status-ignore "301,401,403,429,999" \
-  --url-swap "https\:\/\/www.bob-gardner.com:" \
-  ./_site

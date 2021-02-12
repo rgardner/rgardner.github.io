@@ -19,5 +19,5 @@ jobs:
        with:
         bundler-cache: true
      - run: script/build
-     - run: script/html-proofer
+     - run: script/htmlproofer
      - run: script/github-pages-health-check
