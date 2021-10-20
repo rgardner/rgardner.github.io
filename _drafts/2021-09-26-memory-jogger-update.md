@@ -36,8 +36,9 @@ based on "Needs Action/Reply", "Awaiting Reply", "Scheduled", and the rarely
 used "Delegated." But where do these email digests fit in? They don't! I don't
 need a longer to-do list. Instead, I want "pull", not "push". Review these items
 when I have time, but without the guilt and annoyance of push notifications and
-"unread" messages. I thought for "trending" an email digest was the right UI,
-but I didn't think about how these emails would actually fit into my life.
+"unread" messages. I thought for surfacing "trending" articles an email digest
+was the right UI, but I didn't think about how these emails would actually fit
+into my life.
 
 For a positive surprise, I found I clicked on the irrelevant items as often as
 the relevant ones. Even if the articles in the digest were completely unrelated
