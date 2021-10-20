@@ -3,7 +3,6 @@ layout: resource
 title: Reading a Research Paper
 ---
 
-# Reading a Research Paper
 Here is some advice that [Professor Lakshmi
 Subramanian](https://cs.nyu.edu/~lakshmi/Lakshmi/Home.html) gave me about
 reading research papers. This is not general purpose advice; this is so that
@@ -23,7 +22,9 @@ needs.
   - skim each subsequent paragraph more and more
 4. Read Section and Subsection titles
   - read carefully the areas where the content is novel or most relevant
-5. If enough interesting points, summarize research
+5. Go through the paper again, skimming each section
+6. Go through the paper yet again, this time reading each section more carefully
+7. If enough interesting points, summarize research
   - what was novel
   - what was relevant
   - what was "wow!" worthy
