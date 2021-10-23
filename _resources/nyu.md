@@ -9,9 +9,8 @@ tons of resources, to the point that there are many hidden gems that students
 spend 4+ years not knowing about. Here is a curated collection of resources
 that will make your experience here even better.
 
-## Student Life
-
 ## Study Away
+
 - NYU Abu Dhabi
   + computer science & economics
   + mathematics
