@@ -41,7 +41,7 @@ def serve(ctx):
 def test(ctx):
     """Runs blog tests."""
     docker_command = get_base_docker_command()
-    docker_command.extend(["/bin/bash", "-ctx", "'script/install && script/run-tests'"])
+    docker_command.extend(["/bin/bash", "-ctx", "'script/install && script/htmlproofer && script/github-pages-health-check'"])
     ctx.run(" ".join(docker_command))
 
 
