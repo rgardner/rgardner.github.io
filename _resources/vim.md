@@ -29,7 +29,7 @@ $ sudo apt-get install vim  # Ubuntu/Debian
 To customize Vim, you modify the settings and add your own functions in
 `~/.vimrc`. My vimrc can be found in my [dotfiles repo].
 
-[dotfiles repo]: https://github.com/rgardner/dotfiles/blob/main/link/.vimrc
+[dotfiles repo]: https://github.com/rgardner/dotfiles/blob/main/stow/vim/.vimrc
 
 ## Plugins for other editors and IDEs
 
