@@ -30,4 +30,4 @@ needs.
   - what was "wow!" worthy
 
 ## Resources
-- [HN discussion](http://cheeaun.github.io/hackerweb/#/item/9245467)
+- [HN discussion](https://news.ycombinator.com/item?id=9245467)

@@ -50,8 +50,8 @@ My highlights:
 [battlebots]: https://www.youtube.com/watch?v=Oo3zWxO3yYs
 
 [techliberalarts]: {% post_url 2014-7-31-why-technology-and-liberal-arts %}
-[numpy]: http://www.numpy.org/
+[numpy]: https://numpy.org/
 [spartan]: https://github.com/spartan-array/spartan
-[techatnyu]: http://www.techatnyu.org/
-[afterhours]: http://www.techatnyu.org/#build-and-socialize
+[techatnyu]: https://www.techatnyu.org/
+[afterhours]: https://web.archive.org/web/20190124141809/https://techatnyu.org/#build-and-socialize
 [meje]: https://www.facebook.com/pages/NYU-Music-Education-Jazz-Ensemble/149497651746377

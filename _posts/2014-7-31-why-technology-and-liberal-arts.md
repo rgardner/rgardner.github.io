@@ -66,7 +66,7 @@ think. Tyler Cowen explains in *An Economist Gets Lunch* why food quality in
 the US decreased during prohibition and why great barbecue restaurants also
 serve excellent breakfasts. In *The UNIX Philosophy*, Mike Gancarz draws upon
 Ken Thompson and others to distill [nine essential key
-points](http://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
+points](https://en.wikipedia.org/wiki/Unix_philosophy#Mike_Gancarz:_The_UNIX_Philosophy)
 for adherents to the Unix philosophy.
 
 > 1. Small is beautiful.

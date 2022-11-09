@@ -19,5 +19,5 @@ other programs and the operating system.
 
 ## Tools
 
-- [ShellCheck](http://www.shellcheck.net/)
+- [ShellCheck](https://www.shellcheck.net/)
   + Sh and Bash script linter
