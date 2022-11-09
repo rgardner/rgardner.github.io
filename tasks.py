@@ -1,5 +1,11 @@
 """Blog management tasks."""
 
+# Work around https://github.com/pyinvoke/invoke/issues/833
+import inspect
+
+if not hasattr(inspect, 'getargspec'):
+    inspect.getargspec = inspect.getfullargspec
+
 import pathlib
 import shutil
 from typing import List
