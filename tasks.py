@@ -3,17 +3,18 @@
 # Work around https://github.com/pyinvoke/invoke/issues/833
 import inspect
 
-if not hasattr(inspect, 'getargspec'):
+if not hasattr(inspect, "getargspec"):
     inspect.getargspec = inspect.getfullargspec
 
 import pathlib
+import shlex
 import shutil
 from typing import List
 
 import invoke
 
 
-JEKYLL_VERSION = "3.8"
+JEKYLL_VERSION = "3.9.2"
 
 
 def get_repo_root() -> pathlib.Path:
@@ -36,18 +37,25 @@ def get_base_docker_command() -> List[str]:
 
 
 @invoke.task
-def serve(ctx):
+def serve(ctx, docker=False):
     """Serves auto-reloading blog via Docker."""
-    docker_command = get_base_docker_command()
-    docker_command.extend(["jekyll", "serve", "--drafts", "--incremental"])
-    ctx.run(" ".join(docker_command))
+    cmd = ["jekyll", "serve", "--drafts", "--incremental"]
+    if docker:
+        cmd = get_base_docker_command() + cmd
+    ctx.run(shlex.join(cmd))
 
 
 @invoke.task
 def test(ctx):
     """Runs blog tests."""
     docker_command = get_base_docker_command()
-    docker_command.extend(["/bin/bash", "-ctx", "'script/install && script/htmlproofer && script/github-pages-health-check'"])
+    docker_command.extend(
+        [
+            "/bin/bash",
+            "-ctx",
+            "'script/install && script/htmlproofer && script/github-pages-health-check'",
+        ]
+    )
     ctx.run(" ".join(docker_command))
 
 
@@ -65,8 +73,9 @@ def new_post(ctx):
 
 
 @invoke.task
-def update_dependencies(ctx):
+def update_dependencies(ctx, docker=False):
     """Updates blog's Ruby Gems."""
-    docker_command = get_base_docker_command()
-    docker_command.extend(["/bin/bash", "-ctx", "'bundle update'"])
-    ctx.run(" ".join(docker_command))
+    cmd = ["/bin/bash", "-ctx", "'bundle update'"]
+    if docker:
+        cmd = get_base_docker_command() + cmd
+    ctx.run(shlex.join(cmd))

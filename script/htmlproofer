@@ -7,6 +7,7 @@ set -euo pipefail
 URL_IGNORE="/dancingtogether.live/,/twitter.com/,/t.co/"
 
 bundle exec htmlproofer \
+  --enforce-https=false \
   --ignore-status-codes 301,401,403,429,999 \
   --ignore-urls "${URL_IGNORE}" \
   --swap-urls "https\:\/\/www.bob-gardner.com:" \
