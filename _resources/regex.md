@@ -11,9 +11,9 @@ title: Regex
 
 ## Resources
 
-- [Rubular](http://rubular.com/)
+- [Rubular](https://rubular.com/)
   + "Rubular is a Ruby-based regular expression editor"
-- [Pythex](http://pythex.org/)
+- [Pythex](https://pythex.org/)
   + "pythex is a quick way to test your Python regular expressions"
-- [RegExr](http://regexr.com/)
+- [RegExr](https://regexr.com/)
   + "RegExr is an online tool to learn, build, & test Regular Expressions"

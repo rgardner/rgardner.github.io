@@ -51,8 +51,8 @@ all of the other editors and IDEs in this list.
 
 
 [Vim Mode]: https://github.com/atom/vim-mode
-[Evil]: http://www.emacswiki.org/emacs/Evil
+[Evil]: https://www.emacswiki.org/emacs/Evil
 [VsVim]: https://visualstudiogallery.msdn.microsoft.com/59ca71b3-a4a3-46ca-8fe1-0e90e3f79329
 [Vintage]: https://www.sublimetext.com/docs/2/vintage.html
-[Vrapper]: http://vrapper.sourceforge.net/home/
+[Vrapper]: https://vrapper.sourceforge.net/home/
 [IdeaVim]: https://plugins.jetbrains.com/plugin/164

@@ -21,10 +21,10 @@ While this course was great for learning the syntax and logic with the
 language, I hadn't learned how to run actual Python code on my computer (only
 through their web interface). When I came back to Python after my forays in
 Java, Bash, and Ruby, I learned from [Learn Python the Hard
-Way](http://learnpythonthehardway.org/).
+Way](https://learnpythonthehardway.org/).
 
 Websites and forums like [Project Euler](https://projecteuler.net/) and
-[Reddit's Daily Programmer](http://www.reddit.com/r/dailyprogrammer) were great
+[Reddit's Daily Programmer](https://www.reddit.com/r/dailyprogrammer) were great
 for learning more about programming in general and Python language fundamentals
 specifically.
 

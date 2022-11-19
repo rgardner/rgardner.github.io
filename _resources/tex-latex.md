@@ -12,14 +12,14 @@ their documents.
 
 [TeX]: https://en.wikipedia.org/wiki/TeX
 [LaTeX]: https://en.wikipedia.org/wiki/LaTeX
-[differences between TeX and LaTeX here]: http://tex.stackexchange.com/a/85
+[differences between TeX and LaTeX here]: https://tex.stackexchange.com/questions/49/what-is-the-difference-between-tex-and-latex/85#85
 
 ## Editors
 
 - [MacTex (CLI)](https://www.tug.org/mactex/)
   + after this, you can use `pdflatex file.tex` to output a pdf file
 - [TeXworks (GUI)](https://www.tug.org/texworks/)
-- [Vim LaTeX-Box (CLI / GUI)](http://vimawesome.com/plugin/latex-box-mine)
+- [Vim LaTeX-Box (CLI / GUI)](https://vimawesome.com/plugin/latex-box-mine)
 
 ## References
 

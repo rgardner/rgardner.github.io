@@ -37,11 +37,11 @@ Here is a collection of news articles that have featured me or my work:
   - [Challenge Post][hackny-project]
   - [Source on GitHub][chintastic]
 
-[twir]: http://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/
+[twir]: https://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/
 [techatnyu]: https://medium.com/@TechatNYU/where-we-are-tech-nyu-2015-a5916a25fbfa
 [nytm]: https://vimeo.com/124470748
 [hackny]: https://hackny.org/blog/2015/03/spring-2015-hackathon-recap
-[hackny-project]: http://challengepost.com/software/chintastic-photo-booth
+[hackny-project]: https://devpost.com/software/chintastic-photo-booth
 [chintastic]: https://github.com/rgardner/chintastic
 
 ## 2014
@@ -78,14 +78,14 @@ Here is a collection of news articles that have featured me or my work:
     would merge and rebase so the project was nearly always in a working state.
   - [Source on GitHub][hackatbrown-gh]
 
-[protofund]: http://entrepreneur.nyu.edu/2014/10/27/announcing-the-fall-14-prototyping-fund-awards/
+[protofund]: https://entrepreneur.nyu.edu/blog/2014/10/27/announcing-the-fall-14-prototyping-fund-awards/
 [projectnikola]: http://project-nikola.github.io/
 [courant]: http://news.cs.nyu.edu/News.html
 [pks-interview]: https://www.facebook.com/NYUSkulls/photos/a.761902210542949.1073741830.322590137807494/772882586111578/?type=1
 [pearson-post]: https://web.archive.org/web/20170106182652/http://developer.pearson.com/blog/recap-technyus-hacknight-pearsons-new-york-office
-[techatnyu-interview]: http://techatnyu.tumblr.com/post/82200405221/get-to-know-bob-gardner
-[nyu-interview]: http://www.nyunews.com/2014/02/08/mlk-2/
-[hackatbrown]: http://www.browndailyherald.com/2014/01/27/student-programmers-code-night-hackathon/
+[techatnyu-interview]: https://techatnyu.tumblr.com/post/82200405221/get-to-know-bob-gardner
+[nyu-interview]: https://nyunews.com/2014/02/08/mlk-2/
+[hackatbrown]: https://www.browndailyherald.com/article/2014/01/student-programmers-code-through-the-night-at-hackathon
 [hackatbrown-gh]: https://github.com/J-N/StockMarket
 
 ## 2013
@@ -94,4 +94,4 @@ Here is a collection of news articles that have featured me or my work:
   - During my sophomore year, I was interviewed about my thoughts on NYU CAS's
     College Cohort Program as the President of one of the 40 cohorts.
 
-[cohort]: http://www.nyunews.com/2013/09/11/cohort/
+[cohort]: https://nyunews.com/2013/09/11/cohort/

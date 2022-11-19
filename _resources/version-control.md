@@ -30,7 +30,7 @@ with groups? How do I use GitHub?
 
 How do I set up my own private GitHub?
 
-- [Pro Git](http://git-scm.com/book/en/v2)
+- [Pro Git](https://git-scm.com/book/en/v2)
 
 ## Hosting
 
