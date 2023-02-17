@@ -4,41 +4,24 @@
 
 This is the [Jekyll](https://jekyllrb.com/) source of my personal website, <https://www.bob-gardner.com>.
 
-## Development
-
-This project can be built via Docker.
-
-### Setup
-
-Install dependencies:
+## Getting Started
 
 ```sh
-pip install invoke
-```
-
-### Working with Jekyll
-
-Serve the website on localhost and rebuild after changes:
-
-```sh
-invoke serve
-```
-
-### Testing
-
-Check Jekyll configuration, links, DNS configuration issues:
-
-```sh
-invoke test
-```
-
-### Miscellaneous Build Tasks
-
-```sh
-# list all build tasks
-invoke --list
-# create a new post
-invoke new-post
-# update dependencies
-invoke update-dependencies
+$ # Install dependencies
+$ bundle install
+$ # Serve site locally
+$ rake
+$ # List all tasks
+$ rake --tasks
+rake build                    # Build site
+rake ci                       # Run CI tests
+rake clean                    # Remove any temporary products
+rake clobber                  # Remove any generated files
+rake new                      # Create a new post
+rake rubocop                  # Run RuboCop
+rake rubocop:autocorrect      # Autocorrect RuboCop offenses (only when it's safe)
+rake rubocop:autocorrect_all  # Autocorrect RuboCop offenses (safe and unsafe)
+rake serve                    # Run site
+rake test                     # Run tests
+rake update                   # Update dependencies
 ```
