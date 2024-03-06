@@ -20,5 +20,5 @@ architectural pattern. The core photo booth experience is implemented as a
 state machine using the [Stateless][stateless] library.
 
 [mvvm]: https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel
-[readme]: https://github.com/rgardner/Virtual-Painting#readme
+[readme]: https://github.com/rgardner/Virtual-Painting
 [stateless]: https://github.com/dotnet-state-machine/stateless

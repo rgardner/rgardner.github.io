@@ -14,7 +14,7 @@ and has a wide array of use cases:
 and probably most importantly, it is an excellent teaching language.
 
 For people new to programming in general and Python specifically, I recommend
-the [Intro to Computer Science by](https://www.udacity.com/course/cs101) course
+the [Intro to Computer Science by](https://web.archive.org/web/20150215170825/https://www.udacity.com/course/cs101) course
 from [Udacity](https://www.udacity.com/)
 
 While this course was great for learning the syntax and logic with the
