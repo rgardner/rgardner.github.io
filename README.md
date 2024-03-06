@@ -1,6 +1,6 @@
 # bob-gardner.com
 
-![Jekyll CI status](https://github.com/rgardner/rgardner.github.io/workflows/Jekyll/badge.svg)
+[![Jekyll](https://github.com/rgardner/rgardner.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/rgardner/rgardner.github.io/actions/workflows/jekyll.yml)
 
 This is the [Jekyll](https://jekyllrb.com/) source of my personal website, <https://www.bob-gardner.com>.
 
