@@ -15,5 +15,7 @@ title: Regex
   + "Rubular is a Ruby-based regular expression editor"
 - [Pythex](https://pythex.org/)
   + "pythex is a quick way to test your Python regular expressions"
+- [Pyrexp](https://pythonium.net/regex)
+  + "Pyrexp is an online visual regular expression tester for Python"
 - [RegExr](https://regexr.com/)
   + "RegExr is an online tool to learn, build, & test Regular Expressions"
