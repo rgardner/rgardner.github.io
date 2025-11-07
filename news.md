@@ -24,9 +24,6 @@ Here is a collection of news articles that have featured me or my work:
   - I removed a compilation warning in a documentation example, which then
     caused someone else to go through the stdlib and remove similar compilation
     warnings. Now that's leverage!
-- [Where we are: Tech@NYU 2015][techatnyu]
-  - A Medium post detailing what all of the current board members are up to
-    this summer.
 - [NY Tech Meetup April 7, 2015][nytm]
   - My team presented our [Chintastic Photo Booth][hackny-project] project from
     1:04:20 to 1:08:00 and answered questions from the audience from 1:13:00 to
@@ -38,7 +35,6 @@ Here is a collection of news articles that have featured me or my work:
   - [Source on GitHub][chintastic]
 
 [twir]: https://this-week-in-rust.org/blog/2015/10/19/this-week-in-rust-101/
-[techatnyu]: https://medium.com/@TechatNYU/where-we-are-tech-nyu-2015-a5916a25fbfa
 [nytm]: https://vimeo.com/124470748
 [hackny]: https://hackny.org/blog/2015/03/spring-2015-hackathon-recap
 [hackny-project]: https://devpost.com/software/chintastic-photo-booth
