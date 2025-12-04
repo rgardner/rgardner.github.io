@@ -238,5 +238,5 @@ Compared to C++, I find Rust's approach to this problem more consistent and
 easier to reason about because it's more explicit and more consistent across
 different types of functions.
 
-[cpp-function-try]: https://en.cppreference.com/w/cpp/language/function-try-block
+[cpp-function-try]: https://en.cppreference.com/w/cpp/language/try.html#Function_try_block
 [rust-async-cleanup]: https://without.boats/blog/asynchronous-clean-up/
