@@ -1,0 +1,4 @@
+plugins: rubocop-rake
+
+AllCops:
+  NewCops: enable
